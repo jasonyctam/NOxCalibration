@@ -1,6 +1,6 @@
-#NOxCalibration#
+# NOxCalibration #
 
-##Introduction##
+## Introduction ##
 
 This is a simple software with a Graphical User Interface written in python, with the intention of assisting the calibration of data collected from NO<sub>x</sub> analyzers.
 
