@@ -18,12 +18,12 @@ This software was originally written in Python 2.7 in a linux environment, and w
 
 The following are a few screenshots of the application:
 
-![instructionsAndDataSources](/media/jasontam/Data/GitProjects/NOxCalibration/Screenshots/instructionsAndDataSources.png  "Setup Page")
+![instructionsAndDataSources](Screenshots/instructionsAndDataSources.png  "Setup Page")
 
-![NOData](/media/jasontam/Data/GitProjects/NOxCalibration/Screenshots/NOData.png  "NO Data")
+![NOData](Screenshots/NOData.png  "NO Data")
 
-![spanCycles](/media/jasontam/Data/GitProjects/NOxCalibration/Screenshots/spanCycles.png  "Span Cycles")
+![spanCycles](Screenshots/spanCycles.png  "Span Cycles")
 
-![timeSeries](/media/jasontam/Data/GitProjects/NOxCalibration/Screenshots/timeSeries.png  "Time Series")
+![timeSeries](Screenshots/timeSeries.png  "Time Series")
 
-![dataValidation](/media/jasontam/Data/GitProjects/NOxCalibration/Screenshots/dataValidation.png  "Data Validation")
+![dataValidation](Screenshots/dataValidation.png  "Data Validation")
